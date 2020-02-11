@@ -1,24 +1,3 @@
-# weather-app
+# Weather App
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Simple single page mobile app developed using OpenWeather API. To check the temperature and weather condition just type the name of the city in the input and submit it (Enter).
